@@ -1,1 +1,1 @@
-# python_lessons
+Siz bu yerda pythonga oid kodlarni topishingiz mumkin
